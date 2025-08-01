@@ -1,4 +1,12 @@
-<h2 align="left">💫 About Me:</h2>
+<h1 align="left">💫 About Me:</h1>
+
+###
+
+<p align="left">Hi, I'm Jhon Ramos a Full-Stack Developer based in the Philippines.</p>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
@@ -6,38 +14,32 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/mDx2cpvX9QWjerAwjg/giphy.gif?cid=ecf05e47h9m09zu7ibzx0yl29h0yydzsl0isk00w38ddyby3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<h2 align="left">Languages and Tools 🛠️</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="35" alt="sass logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="35" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="35" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jhon-mohonrey-ramos-439014213/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
 
 ###
