@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi, I'm Jhon Ramos a Full-Stack Developer based in the Philippines.</h5>
+<h5 align="left">Full-Stack Developer</h5>
 
 ###
 
