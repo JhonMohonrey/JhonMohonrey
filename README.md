@@ -1,8 +1,8 @@
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 About Me</h1>
 
 ###
 
-<p align="left">Hi, I'm Jhon Ramos a Full-Stack Developer based in the Philippines.</p>
+<h5 align="left">Hi, I'm Jhon Ramos a Full-Stack Developer based in the Philippines.</h5>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi I'm Jhon Ramos a Front-End Developer based in Philippines.<br>🧩 Tools and Technologies I Experiment With:</p>
+<p align="left">Hi, I'm Jhon Ramos a passionate Full-Stack Developer based in the Philippines. I love turning ideas into functional web applications and enjoy collaborating with other developers to build clean, efficient, and meaningful products.</p>
 
 ###
 
@@ -18,28 +18,26 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="50" alt="css logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="50" alt="sass logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="50" alt="tailwindcss logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="50" alt="javascript logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="50" alt="nextjs logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="50" alt="firebase logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
