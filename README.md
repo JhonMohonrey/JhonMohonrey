@@ -1,4 +1,4 @@
-<h1 align="left">💫 About Me</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools 🛠️</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
